@@ -184,8 +184,14 @@ https://www.a11ytips.dev/
 Accessibily criteria checklist:
 https://www.a11yproject.com/checklist/
 
+Accessibility checklist:
+https://webflow.com/accessibility/checklist
+
 Udacity Free Accesibility Course:
 https://www.udacity.com/course/web-accessibility--ud891
+
+JS-Aria Component Library:
+https://dequeuniversity.com/library/
 
 Catch accessibility issues in development:
 https://accessibilityinsights.io

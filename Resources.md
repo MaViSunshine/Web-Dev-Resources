@@ -1,4 +1,4 @@
-# Free Web-Dev-Resouces
+# Free Web-Dev Resouces
 
 <h2>General Resources</h2>
 
@@ -126,7 +126,7 @@ https://exploringjs.com/deep-js/toc.html
 Javascript Design Patterns:
 https://www.patterns.dev/posts/classic-design-patterns/
 
-<h2>API's<h2/>
+<h2>API's</h2>
 
 Big list of API's, you can add your own:
 https://rapidapi.com/hub
@@ -214,6 +214,29 @@ https://git-scm.com/docs
 Official Git Guide (and e-book):
 https://git-scm.com/book/en/v2
 
+<h2>Regex</h2>  
+  
+Learn the basics of regex:
+https://regextutorial.org/  
+
+Interactive Regex Tutorial:
+https://regexone.com/
+  
+JS oriented Regex tutorial:
+http://tryregex.com/  
+  
+Open source site to learn regex:
+https://regexlearn.com/  
+
+Repo with Regex Learning resources:
+https://github.com/Varunram/Awesome-Regex-Resources
+  
+Regex Checker:
+https://regexr.com/
+
+Regex Checker with explanation and match info:  
+https://regex101.com/  
+  
 <h2>Blogging platforms and Online Magazines</h2>
   
 Blog articles and events for Web Devs and UX Designers:

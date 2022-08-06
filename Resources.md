@@ -92,6 +92,12 @@ https://www.crockford.com/code.html
 Javascript for cats (begginer friendly):
 http://jsforcats.com/
 
+Javascript quirks:
+https://bonsaiden.github.io/JavaScript-Garden/
+
+Javascript code snippets:
+https://www.30secondsofcode.org/js/p/1
+
 Online (in browser) code editor: 
 https://playcode.io/
 
@@ -100,6 +106,9 @@ https://kangax.github.io/compat-table/es6/
 
 Hints on why your code it's not working:
 https://jshint.com/
+
+The Algorithms (code snippets):
+https://the-algorithms.com/language/javascript
 
 <h4>JQuery</h4>
 
@@ -111,14 +120,26 @@ https://learn.jquery.com/about-jquery/how-jquery-works/
 
 <h4>JAVASCRIPT FREE E-BOOKS:</h4>
 
+Human Javascript:
+https://read.humanjavascript.com/
+
 Eloquent Javascript:
 https://eloquentjavascript.net/
+
+Mosly Adecurate guide to Functional Programming:
+https://mostly-adequate.gitbook.io/mostly-adequate-guide/
+
+Speaking JS:
+http://speakingjs.com/es5/index.html
 
 JS for impatient Programmers:
 https://exploringjs.com/impatient-js/toc.html
 
 Javascript Info:
 https://javascript.info/
+
+DOM Enlightment:
+http://domenlightenment.com/
 
 Deep Javascript:
 https://exploringjs.com/deep-js/toc.html
@@ -230,6 +251,9 @@ https://regexlearn.com/
 
 Repo with Regex Learning resources:
 https://github.com/Varunram/Awesome-Regex-Resources
+
+Free E-book on Regular Expresions:
+https://www.syncfusion.com/succinctly-free-ebooks/regularexpressions/text-processing
   
 Regex Checker:
 https://regexr.com/

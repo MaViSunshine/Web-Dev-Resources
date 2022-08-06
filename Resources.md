@@ -35,6 +35,9 @@ https://gtmetrix.com/
 Website speed test:
 https://tools.pingdom.com/
 
+Live test your code line by line (Python, Java, JS, C, C++)
+https://pythontutor.com/visualize.html
+
 <h2>HTML</h2>
 
 Definitions / roles of all the HTML tags:
@@ -53,6 +56,9 @@ http://daringfireball.net/projects/markdown/syntax
 
 Markdown tutorial:
 https://www.markdowntutorial.com/
+
+In Browser Markdown editor: 
+https://stackedit.io/
 
 <h2>CSS</h2>
 
@@ -100,16 +106,22 @@ https://jshint.com/
 Basics of JQuery:
 http://jqfundamentals.com/
 
+Learn JQuery:
+https://learn.jquery.com/about-jquery/how-jquery-works/
+
 <h4>JAVASCRIPT FREE E-BOOKS:</h4>
 
-Eloquent Javascript (free e-book):
+Eloquent Javascript:
 https://eloquentjavascript.net/
 
-Exploring JS (free e-book):
+JS for impatient Programmers:
 https://exploringjs.com/impatient-js/toc.html
 
 Javascript Info:
 https://javascript.info/
+
+Deep Javascript:
+https://exploringjs.com/deep-js/toc.html
 
 Javascript Design Patterns:
 https://www.patterns.dev/posts/classic-design-patterns/
@@ -144,6 +156,10 @@ Variety of email examples and other pro features:
 https://reallygoodemails.com/  
 
 <h2>Node</h2>
+Official Docs:
+http://nodejs.org/documentation/
+  
+Repository with learning resorces for node:  
 https://github.com/maxogden/art-of-node#the-art-of-node
 
 <h2>Python</h2>
@@ -173,6 +189,12 @@ http://www.ruby-doc.org/
 Programming Guide:
 http://ruby-doc.com/docs/ProgrammingRuby/
   
+Rails Official Docs:
+http://api.rubyonrails.org/  
+
+Rails official guide:  
+http://guides.rubyonrails.org/  
+  
 <h4>Free Ruby E-books</h4>
   
 Basics of Ruby:
@@ -183,8 +205,17 @@ https://learnrubythehardway.org/book/
   
 Demystifing Rails:
 https://launchschool.com/books/demystifying_rails/read/introduction  
-<h2>Blogging platforms and Online Magazines</h2>
 
+<h2>Git</h2>
+  
+Official Git Docs:
+https://git-scm.com/docs
+
+Official Git Guide (and e-book):
+https://git-scm.com/book/en/v2
+
+<h2>Blogging platforms and Online Magazines</h2>
+  
 Blog articles and events for Web Devs and UX Designers:
 https://alistapart.com/
 

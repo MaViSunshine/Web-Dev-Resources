@@ -167,11 +167,15 @@ https://rapidapi.com/hub
 Another free Api list:
 https://apilist.fun/
 
-<h2>Web Accesibility</h2>
-Web Validator 
+<h2>Web Accessibility</h2>
+
+Accessibility checker:
+https://a11ywatch.com/
+
+Web Validator: 
 https://a11ygator.chialab.io/
 
-Chrome extension to check wcag contrast  
+Chrome extension to check wcag contrast:  
 https://chrome.google.com/webstore/detail/kontrast-wcag-contrast-ch/haphaaenepedkjngghandlmhfillnhjk?hl=en  
 
 <h2>Email Devs</h2>

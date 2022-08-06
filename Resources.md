@@ -169,8 +169,26 @@ https://apilist.fun/
 
 <h2>Web Accessibility</h2>
 
+Web Accessibility Initiative (WAI):
+https://www.w3.org/WAI/
+
+Web Accessibility Project:
+https://www.a11yproject.com/
+
 Accessibility checker:
 https://a11ywatch.com/
+
+Accessibility Tips (begginer friendly):
+https://www.a11ytips.dev/
+
+Accessibily criteria checklist:
+https://www.a11yproject.com/checklist/
+
+Udacity Free Accesibility Course:
+https://www.udacity.com/course/web-accessibility--ud891
+
+Catch accessibility issues in development:
+https://accessibilityinsights.io
 
 Web Validator: 
 https://a11ygator.chialab.io/

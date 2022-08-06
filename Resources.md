@@ -138,6 +138,9 @@ https://exploringjs.com/impatient-js/toc.html
 Javascript Info:
 https://javascript.info/
 
+You might not need JQuery:
+https://youmightnotneedjquery.com/
+
 DOM Enlightment:
 http://domenlightenment.com/
 
@@ -147,10 +150,22 @@ https://exploringjs.com/deep-js/toc.html
 Javascript Design Patterns:
 https://www.patterns.dev/posts/classic-design-patterns/
 
+Functional Light JS:
+https://github.com/getify/Functional-Light-JS
+
 <h2>API's</h2>
+
+List of public API's (free/no key):
+https://apipheny.io/free-api/
+
+Directory for public API's:
+https://publicapi.dev/
 
 Big list of API's, you can add your own:
 https://rapidapi.com/hub
+
+Another free Api list:
+https://apilist.fun/
 
 <h2>Web Accesibility</h2>
 Web Validator 

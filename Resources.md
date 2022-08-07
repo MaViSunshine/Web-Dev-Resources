@@ -199,6 +199,9 @@ https://accessibilityinsights.io
 Web Validator: 
 https://a11ygator.chialab.io/
 
+Accessible React Components:
+https://inclusive-components.design/
+
 Chrome extension to check wcag contrast:  
 https://chrome.google.com/webstore/detail/kontrast-wcag-contrast-ch/haphaaenepedkjngghandlmhfillnhjk?hl=en  
 

@@ -229,6 +229,22 @@ http://nodejs.org/documentation/
 Repository with learning resorces for node:  
 https://github.com/maxogden/art-of-node#the-art-of-node
 
+<h2>React</h2>
+Official React Docs:
+https://reactjs.org/
+
+New Docs Beta Version (focus on functional components):
+https://beta.reactjs.org/
+
+React Fundamentals (Udemy Tutorial):
+https://www.udemy.com/course/react-fundamentals/
+
+React JS Frontend Web Development for Beginners (Udemy Course):
+https://www.udemy.com/course/react-tutorial/
+
+Front End Web Development with React (Intermediate level):
+https://www.coursera.org/learn/front-end-react
+
 <h2>Python</h2>
   
 Official site:

@@ -118,6 +118,11 @@ http://jqfundamentals.com/
 Learn JQuery:
 https://learn.jquery.com/about-jquery/how-jquery-works/
 
+<h4>EJS</h4>
+
+EJS official Docs:
+https://ejs.co/
+
 <h4>Handlebars</h4>
 
 Official Handlebars Docs:

@@ -118,6 +118,16 @@ http://jqfundamentals.com/
 Learn JQuery:
 https://learn.jquery.com/about-jquery/how-jquery-works/
 
+<h4>Handlebars</h4>
+
+Official Handlebars Docs:
+https://handlebarsjs.com/
+
+<h4>NPM</h4>
+
+Official site (docs and package search):
+https://www.npmjs.com/
+
 <h4>JAVASCRIPT FREE E-BOOKS:</h4>
 
 Human Javascript:
@@ -229,6 +239,16 @@ http://nodejs.org/documentation/
 Repository with learning resorces for node:  
 https://github.com/maxogden/art-of-node#the-art-of-node
 
+<h2>MongoDB</h2>
+
+MongoDB official docs:
+https://www.mongodb.com/docs/
+
+<h4>Mongoose</h4>
+
+Mongoose Official Docs:
+https://mongoosejs.com/docs/
+
 <h2>React</h2>
 Official React Docs:
 https://reactjs.org/
@@ -244,6 +264,9 @@ https://www.udemy.com/course/react-tutorial/
 
 Front End Web Development with React (Intermediate level):
 https://www.coursera.org/learn/front-end-react
+
+Full-Stack Web Development with React (IIntermediate level):
+https://www.coursera.org/specializations/full-stack-react
 
 <h2>Python</h2>
   

@@ -254,6 +254,19 @@ https://www.mongodb.com/docs/
 Mongoose Official Docs:
 https://mongoosejs.com/docs/
 
+<h2>GraphQL</h2>
+
+Official site (docs & tutorial):
+https://graphql.org/
+
+<h2>PostgreSQL</h2>
+
+Official Website:
+https://www.postgresql.org/
+
+Basics tutorial:
+https://www.postgresqltutorial.com/
+
 <h2>React</h2>
 Official React Docs:
 https://reactjs.org/
@@ -377,6 +390,9 @@ https://semver.org/
 Readme file generator:
 https://readme.so/
 
+CDN search:
+https://cdnjs.com/
+
 Code Snippet Image Generator:
 https://showcode.app/
   
@@ -384,6 +400,7 @@ Metadata badges for open source projects:
 https://shields.io/
   
 <h2>Chrome extensions </h2>
+
 Figure out what font a website is using:
 https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm  
   

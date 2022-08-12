@@ -128,10 +128,16 @@ https://ejs.co/
 Official Handlebars Docs:
 https://handlebarsjs.com/
 
-<h4>NPM</h4>
+<h4>JSON</h4>
 
-Official site (docs and package search):
-https://www.npmjs.com/
+JSON Official Docs:
+https://www.json.org/json-en.html
+
+Rest API with "fake" data for examples/testing:
+https://jsonplaceholder.typicode.com/
+
+JSON formater and validator:
+https://www.online-json.com/
 
 <h4>JAVASCRIPT FREE E-BOOKS:</h4>
 
@@ -181,6 +187,11 @@ https://rapidapi.com/hub
 
 Another free Api list:
 https://apilist.fun/
+
+<h4>POSTMAN</h4>
+
+Official site for Postman:
+https://app.getpostman.com
 
 <h2>Web Accessibility</h2>
 
@@ -243,6 +254,11 @@ http://nodejs.org/documentation/
   
 Repository with learning resorces for node:  
 https://github.com/maxogden/art-of-node#the-art-of-node
+
+<h4>NPM</h4>
+
+Official site (docs and package search):
+https://www.npmjs.com/
 
 <h2>MongoDB</h2>
 

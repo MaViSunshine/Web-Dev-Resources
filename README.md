@@ -1,4 +1,4 @@
-# Web-Dev-Resouces
+# Web-Dev-Resources
 
 This Repo includes useful resources for web developers.
 

@@ -302,6 +302,10 @@ https://www.coursera.org/learn/front-end-react
 Full-Stack Web Development with React (IIntermediate level):
 https://www.coursera.org/specializations/full-stack-react
 
+<h2>Next JS</h2>
+Next Official Docs:
+https://nextjs.org/docs/getting-started
+
 <h2>Python</h2>
   
 Official site:

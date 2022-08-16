@@ -397,7 +397,10 @@ https://davidwalsh.name/
 FrontEnd and Graphic Design hints:
 https://webdevtrick.com/
 
-  
+<h2>SCRUM</h2>
+Official SCRUM guide:
+https://scrumguides.org/scrum-guide.html
+
 <h2>EXTRAS</h2>
 
 Semantic Versioning:

@@ -86,6 +86,9 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript
 Basic JS concepts, in simple terms:
 https://www.quirksmode.org/js/contents.html
 
+Better Practices Repo for JS, Angular: 
+https://github.com/bob-fornal/better-practices/
+
 Code conventions for JS:
 https://www.crockford.com/code.html
 

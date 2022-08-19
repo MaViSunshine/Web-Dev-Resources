@@ -86,6 +86,9 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript
 Basic JS concepts, in simple terms:
 https://www.quirksmode.org/js/contents.html
 
+Better Practices Repo for JS, Angular (Bob Fornal): 
+https://github.com/bob-fornal/better-practices/
+
 Code conventions for JS:
 https://www.crockford.com/code.html
 
@@ -302,6 +305,10 @@ https://www.coursera.org/learn/front-end-react
 Full-Stack Web Development with React (IIntermediate level):
 https://www.coursera.org/specializations/full-stack-react
 
+<h2>Next JS</h2>
+Next Official Docs:
+https://nextjs.org/docs/getting-started
+
 <h2>Python</h2>
   
 Official site:
@@ -397,7 +404,10 @@ https://davidwalsh.name/
 FrontEnd and Graphic Design hints:
 https://webdevtrick.com/
 
-  
+<h2>SCRUM</h2>
+Official SCRUM guide:
+https://scrumguides.org/scrum-guide.html
+
 <h2>EXTRAS</h2>
 
 Semantic Versioning:

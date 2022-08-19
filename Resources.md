@@ -258,6 +258,14 @@ http://nodejs.org/documentation/
 Repository with learning resorces for node:  
 https://github.com/maxogden/art-of-node#the-art-of-node
 
+<h2>Express</h2>
+
+Official Docs:
+http://expressjs.com/
+
+MDN tutorials:  
+https://developer.mozilla.org/en/docs/Learn/Server-side/Express_Nodejs
+
 <h4>NPM</h4>
 
 Official site (docs and package search):

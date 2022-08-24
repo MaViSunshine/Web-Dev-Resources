@@ -448,3 +448,6 @@ https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpf
 Check For Resposiveness in multiple devices at once:  
 https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb?hl=en  
 
+Full screen capture of your website and application for displaying in your portfolio:
+https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en
+

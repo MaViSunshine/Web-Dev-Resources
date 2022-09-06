@@ -318,6 +318,10 @@ https://www.coursera.org/specializations/full-stack-react
 Next Official Docs:
 https://nextjs.org/docs/getting-started
 
+<h2>Astro</h2>
+Astro Official Docs:
+https://docs.astro.build/en/getting-started/
+
 <h2>Python</h2>
   
 Official site:

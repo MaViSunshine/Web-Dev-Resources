@@ -337,6 +337,9 @@ https://www.fullstackpython.com/table-of-contents.html
 
 Dive into Python 3:  
 https://diveintopython3.net/  
+
+Python for serious begginers (pdf):
+https://www.codeandtips.com/download/python-for-beginners-review-copy-20220907.pdf
   
 <h2>Ruby</h2> 
   

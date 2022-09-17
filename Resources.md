@@ -79,6 +79,9 @@ http://flexboxfroggy.com/
 BootStrap dictionary (code snippet and preview):
 https://bootstrap-cheatsheet.themeselection.com/
 
+Bootstrap themes (free):
+https://bootswatch.com/
+
 <h2>Javascript</h2>
 MDN for JS:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
